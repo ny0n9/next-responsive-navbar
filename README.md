@@ -1,5 +1,5 @@
 NextJS 15 Responsive Navbar Shadcn
-
+<pre><code>
 mkdir next_responsive_navbar
 cd next_responsive_navbar
 
@@ -178,3 +178,4 @@ export function cn(...inputs: ClassValue[]) {
   "iconLibrary": "lucide"
 }
 
+</code></pre>
