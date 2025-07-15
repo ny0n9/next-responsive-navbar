@@ -1,0 +1,21 @@
+/* Inter memiliki style normal dan italic, weight dari 100 - 900 */
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	src: url('../gfonts/inter-normal.woff2') format('woff2'),
+ url('../gfonts/inter-normal.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: italic;
+	src: url('../gfonts/inter-italic.woff2') format('woff2'),
+ url('../gfonts/inter-italic.ttf') format('truetype');
+}
+/* Dancing Script hanya style norma, weight 400 - 700, regular, medium, semibold bold */
+@font-face {
+	font-family: 'Dancing Script';
+	font-style: normal;
+	src: url('../gfonts/dancing-script.woff2') format('woff2'),
+ url('../gfonts/dancing-script.ttf') format('truetype');
+}
+/* cat font.ttf | ttf2woff2 > font.woff2 */

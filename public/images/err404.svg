@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="err404.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5858025"
+     inkscape:cx="371.28554"
+     inkscape:cy="501.0221"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ff0000;stroke-width:0.200521"
+       id="path1"
+       cx="105"
+       cy="157.54482"
+       r="103.38607" />
+    <path
+       id="path2"
+       style="fill:#ffff00;stroke-width:0.264583"
+       d="m 120.40963,76.349428 c -8.23323,33.888732 -12.51238,60.688962 -19.33454,60.688972 -6.822169,-1e-5 -7.742909,-25.37935 -12.352626,-59.614831 -4.055616,-30.120275 0.52033,-58.171384 12.352626,-59.614826 10.66013,-1.300449 27.91482,23.223437 19.33454,58.540685 z"
+       sodipodi:nodetypes="sssss" />
+    <ellipse
+       style="fill:#ffff00;stroke-width:0.264583"
+       id="path3"
+       cx="105"
+       cy="158.51245"
+       rx="14.232368"
+       ry="13.158228" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.8667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:264.557"
+       x="29.792112"
+       y="226.73314"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:264.557"
+         x="29.792112"
+         y="226.73314">Error 404</tspan></text>
+  </g>
+</svg>
