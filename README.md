@@ -178,4 +178,7 @@ export function cn(...inputs: ClassValue[]) {
   "iconLibrary": "lucide"
 }
 
+--bila sudah dilakukan installasi manual, untuk menambahkan component bisa dengan perintah :
+npx shadcn@latest add component_name
+
 </code></pre>
